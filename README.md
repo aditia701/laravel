@@ -5,3 +5,4 @@ deploy compose file to use with a Docker Swarm.
 
 
 update 01
+update 02
